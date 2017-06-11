@@ -1,8 +1,8 @@
 {
-  "name": "auto-publish",
+  "name": "autopublish",
   "description": "Make new pages, created with the Kirby Admin Panel, visible by default",
-  "author": "Gunther Groenewege",
+  "author": "Gunther Groenewege and Timo Schneider",
   "license": "MIT",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "type": "kirby-plugin"
 }
