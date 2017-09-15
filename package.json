@@ -3,6 +3,10 @@
   "description": "Make new pages, created with the Kirby Admin Panel, visible by default",
   "author": "Gunther Groenewege and Timo Schneider",
   "license": "MIT",
-  "version": "4.0.0",
-  "type": "kirby-plugin"
+  "version": "4.1.0",
+  "type": "kirby-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schnti/kirby-autopublish"
+  }
 }
